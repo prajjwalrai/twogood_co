@@ -68,7 +68,7 @@ To test the Two Good Co project, follow these steps:
 ---------------
 Here are some screenshots of the Two Good Co project:
 * **Desktop screenshot**: <img width="1919" height="1079" alt="Screenshot 2025-11-07 194952" src="https://github.com/user-attachments/assets/3b4570be-c347-461d-8109-fb26038a73dd" />]
-**Mobile Screenshot:** [View Image](https://github.com/user-attachments/assets/393c7daa-0739-4dfa-b85d-65d4526cf109)
+**Mobile Screenshot:**: (https://github.com/user-attachments/assets/393c7daa-0739-4dfa-b85d-65d4526cf109)
 
 📦 API Reference
 ----------------
